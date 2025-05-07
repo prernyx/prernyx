@@ -1,6 +1,12 @@
-- 👋 Hi, I’m @prernyx
-- 👀 I’m interested in reading books, learn more about web development.
-- 🌱 I’m currently learning python with solving queations.
+💻 Passionate Developer | Open Source Enthusiast | Lifelong Learner
+
+🚀 Building cool projects, solving real-world problems, and pushing code daily.
+🌱 Currently exploring: HTML, CSS, JS, C, AI, Web3, python
+👯 Always open to collaboration, feedback, and new ideas
+📫 Let’s connect: [gmail : prernasinghh2003@gmail.com]
+⭐ Check out my pinned repositories & drop a star if you like them!
+
+
   
 
 <!---
